@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2l0017/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十二
+  hash: sha256:683b84fba18cbfaf1b4f7fb7adb0cf04b078729870de9e8d06bf823f11967f61
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2l0017_WYG_000-1a, image: WYG0602/WYG0602-0651a.png}
+body:
+  text: 官針職官類二官針之屬提要臣等謹案官針一卷宋吕本中撰本中有春秋集解已著録此乃其所著居官格言凡三十三則宋史本中列傳備列其著作之目不載是書然藝文志雜家類中乃著録一卷此本載左圭百川學海中後有寶慶丁亥永嘉陳昉跋蓋即昉所刋行或當日偶然題記如歐陽修試筆之類本非有意於著書後人得其手稿傳寫鐫刻始加標目故本傳不載歟本中以工詩名家然所作童䝉訓於修已治人之道具有條理蓋亦留心經世者故此書多閲厯有得之言可以見諸實事書首即揭清慎勤三字以為當官之法其言千古不可易王士禎古夫于亭雜録曰上嘗御書清慎勤三大字刻石賜內外諸臣案此三字吕本中官針中語也是數百年後尚䝉聖天子採擇其說訓示百官則所言中理可知矣至其論不欺之道明白深切亦足以資警戒雖篇帙無多而詞簡義精固有官者之龜鑑也乾隆四十五年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:8d8e3423d5f7bb88fb3dd524830a605bf2482521f9eb6e97c92fbe1691efddf9
+metadata:
+  title: 官箴
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:48:36.092468'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2l0017/KR2l0017_000.txt
+hash: sha256:f8f003540b94c59c22e730a21e1d5c48a9c1b5e928b034f63689db58f40a8b69
