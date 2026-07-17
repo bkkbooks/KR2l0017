@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR2l0017_000.yaml, hash: 'sha256:6ed1bf1ca6dca9d70eb6fd1289765ea37c2f48087dd45ce4f038b37dc572e7b0'}
   - {seq: 1, filename: KR2l0017_001.yaml, hash: 'sha256:f8a310b9f2b42be7362e06735c33fa22059a28d19bba7d07e55a1aa71c89d328'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2l0017_000.markers.yaml, hash: 'sha256:97dd3cf4e7e2b21d83455cbc72184b0308daa1e613a61860c68fc0005c25c6e4'}
+  - {seq: 0, role: markers, filename: assets/KR2l0017_000.markers.yaml, hash: 'sha256:8b642ffe46671958d2fcbc4c4fa4de24f8c3ff9199d9c1b2618e3908c21ac267'}
   - {seq: 1, role: markers, filename: assets/KR2l0017_001.markers.yaml, hash: 'sha256:8777efb7da67ca6ce7000dbc616ca9dabe48e576cc5fc0aaaf2cc0f09745bbf9'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 官箴
   type: section
   level: 1
-hash: sha256:4378104bef84bc00735c17cdb4b3509323b4f709d76aefbe76c67a8b9e0af8f1
+hash: sha256:ace261143a07f6cb52f65010de302cf6a054c6a7b836a27dde1036dd6befa5d2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
